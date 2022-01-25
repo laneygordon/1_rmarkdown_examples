@@ -128,6 +128,7 @@ dygraph(q_xts) %>%
   dyAxis("y", label = "Discharge (cfs)") %>%
   dyOptions(drawPoints = TRUE, pointSize = 4)
 ```
+
 ## Poudre Paragraph
 
 **The Poudre river** is a key attribute for northern Front Range of Colorado. It originates in the *Rocky Mountain National Park* and then flows north and east through the Roosevelt National Forest, where it eventually reaches the City of Fort Collins. The Poudre River is key for the **irrigation of agriculture**, as well as an attraction for rafters and kayakers. [river](https://www.rivers.gov/rivers/cache-la-poudre.php)  
