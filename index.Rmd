@@ -1,6 +1,6 @@
 ---
 title: "Discharge Data Example"
-author: "Matthew Ross"
+author: "Laney Gordon"
 date: "1/24/2022"
 output:
   html_document:
@@ -31,7 +31,7 @@ The Poudre River at Lincoln Bridge is:
   - **Downstream of many agricultral diversions**
 
 
-## SiteDescription
+# SiteDescription
 
 ![](https://waterdata.usgs.gov/nwisweb/local/state/co/text/pics/06752260big.jpg)
 
