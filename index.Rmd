@@ -31,12 +31,12 @@ The Poudre River at Lincoln Bridge is:
   - **Downstream of many agricultral diversions**
 
 
-# SiteDescription
+## SiteDescription
 
 ![](https://waterdata.usgs.gov/nwisweb/local/state/co/text/pics/06752260big.jpg)
 
 
-## Data Acquisition and Plotting tests
+# Data Acquisition and Plotting tests
 
 ## Data Download
 
@@ -76,7 +76,8 @@ q_xts <- xts(q$q, order.by = q$Date)
 
 
 dygraph(q_xts) %>%
-  dyAxis("y", label = "Discharge (cfs)") 
+  dyAxis("y", label = "Discharge (cfs)") %>%
+  dyOptions(drawPoints = TRUE, pointSize = 2)
 ```
 
 
