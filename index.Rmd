@@ -1,11 +1,12 @@
 ---
 title: "Discharge Data Example"
 author: "Laney Gordon"
-date: "1/24/2022"
+date: "`r format(Sys.Date(), '%B %d, %Y')`" 
 output:
   html_document:
     toc: true
     toc_float: true
+    toc_depth: 3 
 ---
 
 ```{r setup, include=FALSE}
