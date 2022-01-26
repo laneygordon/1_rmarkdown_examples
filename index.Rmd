@@ -37,7 +37,7 @@ The Poudre River at Lincoln Bridge is:
 ![](https://waterdata.usgs.gov/nwisweb/local/state/co/text/pics/06752260big.jpg)
 
 
-# Data Acquisition and Plotting tests
+# Data Acquisition & Plotting tests
 
 ## Data Download
 
